@@ -46,7 +46,7 @@ img {
 
 /* ============ KV ============ */
 .kv {
-  background: url("/Users/mutsuki/html/lp-practice/img/keyvisual/keyvisual.jpg") no-repeat center/cover;
+  background: url("../img/kv/kv.jpg") no-repeat center/cover;
   height: 935px;
   display: flex;
   justify-content: center;
